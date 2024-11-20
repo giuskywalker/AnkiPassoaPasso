@@ -13,6 +13,8 @@
 
 - Obs: assim que você entrar no site do addon que quer instalar, você vai procurar isto daqui:
 
-[Anki Connect](https://ankiweb.net/shared/info/2055492159)
-[Review Heatmap](https://ankiweb.net/shared/info/1771074083)
-[Study Time Stats](https://ankiweb.net/shared/info/1247171202)
+.[Anki Connect](https://ankiweb.net/shared/info/2055492159)
+
+.[Review Heatmap](https://ankiweb.net/shared/info/1771074083)
+
+.[Study Time Stats](https://ankiweb.net/shared/info/1247171202)
