@@ -46,7 +46,7 @@
 
 ### Ajustes no deck
 
-1. Coloque o mouse em cima do deck, e clique no ícone da direita, e selecione opções.
+1. Coloque o mouse em cima do deck, e clique na engrenagem da direita, e selecione opções.
 2. Em `Novas cartas por dia` eu recomendo um valor entre 10 e 20, qualquer coisa acima disso, vai virar uma bola de neve gigantesca no futuro.
 3. Em `Número máximo de revisões` coloque em 9999
 
