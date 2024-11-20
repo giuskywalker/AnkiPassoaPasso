@@ -12,6 +12,11 @@
 4. Para conseguir este código, você precisa ir na página do AddOn que quer instalar, os que eu recomendo e não vivo sem, deixarei aqui abaixo.
 
 - Obs: assim que você entrar no site do addon que quer instalar, você vai procurar isto daqui:
+- O código é o número no canto inferior da foto.
+
+![Alt Text](https://github.com/giuskywalker/AnkiPassoaPasso/blob/main/images/2024-11-20_15-40-35.png)
+
+### AddOns Recomendados
 
 [Anki Connect](https://ankiweb.net/shared/info/2055492159)
 
