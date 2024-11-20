@@ -16,6 +16,8 @@
 
 ![Alt Text](https://github.com/giuskywalker/AnkiPassoaPasso/blob/main/images/2024-11-20_15-40-35.png)
 
+5. Depois de instalar qualquer AddOn, reinicie o Anki para que o AddOn possa funcionar corretamente.
+
 ### AddOns Recomendados
 
 [Anki Connect](https://ankiweb.net/shared/info/2055492159)
