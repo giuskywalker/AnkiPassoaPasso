@@ -1,7 +1,7 @@
 # Instalando o Anki
 
 - O primeiro passo é instalar o [anki](https://apps.ankiweb.net/) em si, caso você esteja usando um computador você baixa a ferramenta no site provido [aqui](https://apps.ankiweb.net/), se estiver no celular, baixe pela sua loja de aplicativos.
-
+ 
 ## Instalando AddOns
 
 - Assim que você instalar o anki, você terá uma versão bem pura e básica, o que nós queremos aqui é configurá-lo para facilitar o seu uso e incrementá-lo o máximo que pudermos.
