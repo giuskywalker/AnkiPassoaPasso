@@ -50,6 +50,9 @@
 2. Em `Novas cartas por dia` eu recomendo um valor entre 10 e 20, qualquer coisa acima disso, vai virar uma bola de neve gigantesca no futuro.
 3. Em `Número máximo de revisões` coloque em 9999
 
+add img here.
+
+
 ### Anki Sync
 
 - O anki é um programa muito simples, funciona inclusive sem internet, mas para transformá-o em algo muito mais útil e rebuscado, através de uma conta que criaremos no [site](https://ankiweb.net/account/signup), nosso progresso será armazenado e sincronizado em todos os nossos dispositivos, exemplo: fiz 20 cartas no meu computador, caso eu logue pelo celular essas novas cartas estarão lá, e etc... Esse passo é ALTAMENTE recomendado.
