@@ -8,8 +8,8 @@
 
 1. Abra o seguinte menu: `Ferramentas > AddOns` ou aperte `CTRL + Shift + A`
 2. No menu addons, você vai clickar na primeira opção de cima pra baixo no canto superior direito da tela.
-3. Ele vai te pedir um código, aí você simplesmente vai colar o código do AddOn que você quer instalar.
-4. Para conseguir este código, você precisa ir na página do AddOn que quer instalar, os que eu recomendo e não vivo sem, deixarei aqui abaixo.
+3. Ele irá te pedir um código; depois, você simplesmente vai colar o código do AddOn que você quer instalar.
+4. Para conseguir este código, você precisa ir na página do AddOn que quer instalar e, copiar o cógicos disponíveis; os links dos sites estão logo abaixo `5`.
 
 - Obs: assim que você entrar no site do addon que quer instalar, você vai procurar isto daqui:
 - O código é o número no canto inferior da foto.
