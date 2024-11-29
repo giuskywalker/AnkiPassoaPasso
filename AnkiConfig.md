@@ -50,7 +50,7 @@
 2. Em `Novas cartas por dia` eu recomendo um valor entre 10 e 20, qualquer coisa acima disso, vai virar uma bola de neve gigantesca no futuro.
 3. Em `Número máximo de revisões` coloque em 9999
 
-add img here.
+![Alt Text](https://github.com/giuskywalker/AnkiPassoaPasso/blob/main/images/ank2.png)
 
 
 ### Anki Sync
