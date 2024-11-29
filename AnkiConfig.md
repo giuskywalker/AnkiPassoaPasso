@@ -55,6 +55,7 @@ add img here.
 
 ### Anki Sync
 
+- Sincronize os progressos feitos no computador ou no celular com os outros dispositivos apenas com o login.
 - O anki é um programa muito simples, funciona inclusive sem internet, mas para transformá-o em algo muito mais útil e rebuscado, através de uma conta que criaremos no [site](https://ankiweb.net/account/signup), nosso progresso será armazenado e sincronizado em todos os nossos dispositivos, exemplo: fiz 20 cartas no meu computador, caso eu logue pelo celular essas novas cartas estarão lá, e etc... Esse passo é ALTAMENTE recomendado.
 
 1. Crie uma conta no [AnkiWeb](https://ankiweb.net/account/signup)
