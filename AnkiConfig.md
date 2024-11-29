@@ -69,3 +69,5 @@
 3. Se lembre, você não perde nada por errar, toda vez que você erra, sua chance de lembrar a carta da próxima vez é maior.
 
 - A ideia do anki é usar um algoritmo matemático para saber exatamente qual vai ser o dia que você está prestes a esquecer uma carta, e então fazer você se lembrar dela no último momento, o que aumenta MUITO o tempo que você se lembra dela, alguns dizem que até mesmo o dobro do tempo, ou seja, o que eu quero dizer com isso é: nunca perca um dia sequer de Anki, pois suas cartas vão acumular e você vai se enrolar bastante, e como fazer pra não perder um dia de Anki sequer? Muito simples, coloque um número de cartas novas que você consiga aguentar fazer, no início eu fazia 20, depois 30 até chegar em 200 (o que é uma maluquice absurda, não façam isso), e hoje 6 meses depois voltei ao patamar inicial de 20 cartas por dia, aprendendo bastante e sem ter burnout, não perdi nenhum dia, esse é o objetivo.
+
+![Alt Text](https://github.com/giuskywalker/AnkiPassoaPasso/blob/main/images/curve%203.png)
