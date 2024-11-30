@@ -14,7 +14,7 @@
 - Obs: assim que você entrar no site do addon que quer instalar, você vai procurar isto daqui:
 - O código é o número no canto inferior da foto.
 
-![Alt Text](https://github.com/giuskywalker/AnkiPassoaPasso/blob/main/images/2024-11-20_15-40-35.png)
+![Alt Text](https://github.com/giuskywalker/AnkiPassoaPasso/blob/main/images/Captura%20de%20tela%202024-11-28%20200757.png)
 
 5. Depois de instalar qualquer AddOn, reinicie o Anki para que o AddOn possa funcionar corretamente.
 
