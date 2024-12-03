@@ -32,6 +32,10 @@
 
 [Japanese Pitch Accent](https://ankiweb.net/shared/info/148002038)
 
+[Advanced Browser](https://ankiweb.net/shared/info/874215009)
+
+[FSRS Helper](https://ankiweb.net/shared/info/759844606)
+
 ## Importando um deck
 
 - O anki sozinho não faz nada, você precisa criar seus próprios decks, que consistem em cartas com uma pergunta na frente e uma resposta no verso, porém o anki também te possibilita importar decks pré montados de outras pessoas, como eu sei que os viewers do Eric são focados em japonês, vou usar o deck que eu usei no início do meu aprendizado de japonês como exemplo, mas qualquer deck que você queira usar vai funcionar da mesma maneira.
